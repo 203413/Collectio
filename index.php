@@ -24,8 +24,8 @@
 		<?php endif; ?>
 
 			<div id="pagination">
-				<p><?php next_posts_link('<- Post Siguientes')?>
-				<?php previous_posts_link('Post Anteriores ->') ?></p>
+				<p><?php next_posts_link('<- Post anteriores')?>
+				<?php previous_posts_link('Post siguientes ->') ?></p>
 			</div>
 		</section>
 <?php get_sidebar(); ?>

@@ -23,7 +23,7 @@ register_sidebar(array(
  'after_title' => '</h3>',
  ));
 
-
+/*Cambio de fondo*/
 /*add_theme_support( 'custom-background', apply_filters( 'capoverso_custom_background_args', array(
     'default-color' => 'rgb(61, 61, 61)',
     'default-image' => get_template_directory_uri() . '/img/default.png',
